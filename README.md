@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
 
-- 🌱 I’m currently learning **React Native**
+- 🖥 I’m currently learning **React Native**
 
 - 💬 Ask me about **ReactJS, React Native**
 
