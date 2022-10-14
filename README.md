@@ -1,5 +1,5 @@
-<h5 >Hi 👋, I'm Ibrahim Memon</h5>
-<h3 align="center">A passionate frontend developer</h3>
+<h3Hi 👋, I'm Ibrahim Memon</h3
+<p>A passionate frontend developer</p>
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
 
