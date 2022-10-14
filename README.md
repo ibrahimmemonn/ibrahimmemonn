@@ -1,4 +1,4 @@
-<h3Hi 👋, I'm Ibrahim Memon</h3
+<h3>Hi 👋, I'm Ibrahim Memon</h3
 <p>A passionate frontend developer</p>
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
