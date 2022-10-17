@@ -10,8 +10,8 @@
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimmemonn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimmemonn)](https://github.com/ibrahimmemonn/github-readme-stats)
+<div ><img src="https://github-readme-stats.vercel.app/api?username=ibrahimmemonn&show_icons=true&count_private=true&hide_border=true" /></div>  
 
 <br/>  
 <p align="left">
