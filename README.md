@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ibrahimmemonn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <p align="left">
 </p>
 
