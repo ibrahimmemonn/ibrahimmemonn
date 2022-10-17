@@ -10,10 +10,10 @@
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)](https://git.io/streak-stats)
 <div ><img src="https://github-readme-stats.vercel.app/api?username=ibrahimmemonn&show_icons=true&count_private=true&hide_border=true" /></div>  
-
-<br/>  
+<br/> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)](https://git.io/streak-stats)
+ 
 <p align="left">
 </p>
 
