@@ -12,18 +12,8 @@
 10
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)](https://git.io/streak-stats)
   
- 
 <br/> 
-12
-10
-9
-8
-7
-6
-4
-5
-3
-22
+
 <p align="left">
 </p>
 
