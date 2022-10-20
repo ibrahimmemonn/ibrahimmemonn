@@ -17,7 +17,6 @@
 apan
 ne acha
 khasa
-code
 
 <p align="left">
 </p>
