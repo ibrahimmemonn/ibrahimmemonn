@@ -13,10 +13,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)](https://git.io/streak-stats)
 
 <br/>
-9
-apan5678
-ne acha
-khasa
 
 <p align="left">
 </p>
