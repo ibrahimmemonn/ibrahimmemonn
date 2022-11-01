@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)]
 
 <br/>
 
