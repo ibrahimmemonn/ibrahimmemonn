@@ -13,11 +13,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
 <br/>
-             
-<p align="left"> 
-                      
-</p>
-
+            
 <a href=#><img src="contributions.svg"></a>
 
 <h3 align="center">Languages and Tools:</h3>
