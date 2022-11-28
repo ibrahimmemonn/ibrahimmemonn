@@ -17,7 +17,10 @@
 <p align="left"> 
                       
 </p>
-<div>
+<div style="width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;">
 <p class="f4 text-normal mb-2" >9696 contributions in the last year</p>
 
 <a href=#><img src="contributions.svg"></a>
