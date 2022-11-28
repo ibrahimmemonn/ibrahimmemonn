@@ -18,6 +18,8 @@
                       
 </p>
 
+<p>9696 contributions in the last year</p>
+
 <a href=#><img src="contributions.svg"></a>
 
 <h3 align="left">Languages and Tools:</h3>
