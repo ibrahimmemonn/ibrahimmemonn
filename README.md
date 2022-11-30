@@ -16,9 +16,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=react,redux,androidstudio,mongodb,figma,gatsby,js,ps,ts,cpp,html)](https://skillicons.dev)
-</p>
+
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
