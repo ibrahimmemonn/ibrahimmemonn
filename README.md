@@ -12,8 +12,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
-<a href=#><img src="contributions.svg"></a>
-
 <h3 align="center">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,androidstudio,mongodb,figma,firebase,gatsby,js,ps,ts,cpp,html&theme=light)](https://skillicons.dev)
