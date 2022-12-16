@@ -1,5 +1,3 @@
-import GitHubButton from 'react-github-btn'
-
 <h3>Hi 👋, I'm Ibrahim Memon</h3>
 
 <p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
@@ -12,7 +10,6 @@ import GitHubButton from 'react-github-btn'
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
 <h3 align="center">Languages and Tools:</h3>
 
