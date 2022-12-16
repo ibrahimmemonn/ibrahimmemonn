@@ -1,10 +1,4 @@
-
-<!DOCTYPE html>
-<html>
-<head> 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-  </head>
-<body>
+import GitHubButton from 'react-github-btn'
 
 <h3>Hi 👋, I'm Ibrahim Memon</h3>
 
@@ -17,9 +11,6 @@
 - 💬 Ask me about **ReactJS, React Native**
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ibrahimmemonn" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @ibrahimmemonn on GitHub">Follow @ibrahimmemonn</a>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
@@ -45,5 +36,4 @@
 </div>
 
 <br/>
-</body>
-</html>
+
