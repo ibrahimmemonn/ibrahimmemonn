@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ibrahimmemonn" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @ibrahimmemonn on GitHub">Follow @ibrahimmemonn</a>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
 <h3 align="center">Languages and Tools:</h3>
