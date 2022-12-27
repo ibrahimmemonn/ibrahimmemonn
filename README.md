@@ -1,6 +1,8 @@
 <h3>Hi 👋, I'm Ibrahim Memon</h3>
 
 <p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
+![](https://komarev.com/ghpvc/?username=ibrahimmemonn)
+
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
 
@@ -9,8 +11,6 @@
 - 💬 Ask me about **ReactJS, React Native**
 
 - 📫 How to reach me **ibrahimmemon930@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=ibrahimmemonn)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
 
