@@ -16,6 +16,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+https://www.hackerrank.com/certificates/iframe/9053bb6f06a9
+
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,androidstudio,mongodb,figma,firebase,gatsby,js,ps,ts,cpp,html&theme=light)](https://skillicons.dev)
 
 
