@@ -1,38 +1,21 @@
-<h3>Hi 👋, I'm Ibrahim Memon</h3>
-
-<p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
+<h2>Ibrahim Memon</h2>
+<p><strong>Software Engineer · UI Enthusiast · OSS Contributor</strong></p>
 
 ![](https://komarev.com/ghpvc/?username=ibrahimmemonn)
+<p>
+  Software Engineer at  <a href="https://web.hr" target="_blank"><strong>WebHR</strong></a> with 3+ years of experience building scalable mobile apps using React Native. I blend a strong UI/UX background (5+ years) with engineering to craft polished, user-centered products.
+</p>
 
-- 🔭 I’m currently working on [WebHR](https://web.hr/)
+<p>
+  Built apps and SaaS tools used by 220k+ users. Active in the open-source community—currently building 
+  <a href="https://favifiles.com" target="_blank"><strong>FaviFiles</strong></a>, a minimal, no-signup favicon generator for developers.
+</p>
 
-- 🖥 I’m currently learning **React Native**
-
-- 💬 Ask me about **ReactJS, React Native**
-
-- 📫 How to reach me **ibii.code@gmail.com**
-
-
-<h3 align="center">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nextjs,androidstudio,mongodb,figma,firebase,gatsby,js,ps,ts,cpp,html&theme=light)](https://skillicons.dev)
+<p>
+  🌐 <a href="https://ibiimemon.com" target="_blank">ibiimemon.com</a> <br/>
+  📬 <a href="mailto:ibii.code@gmail.com">ibii.code@gmail.com</a>
+</p>
 
 
-<h3 align="center">Connect with me</h3>
-<div align="center">
-<a href="https://github.com/ibrahimmemonn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ibrahim-memon-12290323a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/ibrahimmemonn" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ibii.memon" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>
 
-<br/>
 
