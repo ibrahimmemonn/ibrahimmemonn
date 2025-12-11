@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  Built apps and SaaS tools used by 220k+ users. Active in the open-source community—currently the <strong>creator of</strong> 
+  Built apps and SaaS tools used by 350k+ users. Active in the open-source community—currently the <strong>creator of</strong> 
   <a href="https://favifiles.com" style="color:inherit; text-decoration:underline;"><strong>FaviFiles</strong></a>, a minimal, no-signup favicon generator for developers.
 </p>
 
