@@ -12,7 +12,6 @@
 </p>
 
 <p>
-Portfolio: <a href="https://ibiimemon.com" target="_blank">ibiimemon.com</a> <br/>
 Email: <a href="mailto:ibii.code@gmail.com">ibii.code@gmail.com</a>
 </p>
 
