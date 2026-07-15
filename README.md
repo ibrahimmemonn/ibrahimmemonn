@@ -13,6 +13,7 @@
 
 <p>
 Email: <a href="mailto:ibii.code@gmail.com">ibii.code@gmail.com</a>
+  <br/>
 Portfolio: <a href="https://ibii.dev/">ibii.dev</a>
 </p>
 
