@@ -1,19 +1,33 @@
-## Ibrahim Memon
+<h1 align="center">Hi, I'm Ibrahim Memon</h1>
+<h3 align="center">React Native Engineer at <a href="https://web.hr/">WebHR</a> | Hyderabad, Sindh, Pakistan</h3>
 
-**React Native engineer at [WebHR](https://web.hr/) · Hyderabad, Sindh, Pakistan**
+I build mobile and web products end to end, from the design to the code. I started as a graphic designer, taught myself to code in 2021, and have been at WebHR since 2022.
 
-I build mobile and web products end to end, from the design to the code. I started as a graphic designer, taught myself to code in 2021, and joined WebHR in 2022, where I work on the mobile apps and the AI side of our products.
+**Currently working on** the WebHR mobile apps and the AI side of our products
 
-**Selected work**
+**I specialize in** React Native, frontend engineering and UI/UX design
 
-- Revamped the WebHR mobile app in React Native and grew it from 3K to 12K+ users, on an HR platform used in 190+ countries
-- Built facial-recognition clock-in and full offline support for the [WebHR Kiosk](https://apps.apple.com/us/app/webhr-kiosk/id6458185862) app
-- Ran the web.hr website and its SEO, reaching 9K Google Search clicks in a month
-- Building with LLMs and RAG across Somezing, WebHR and AskBooks
-- Free UI kits on Figma Community, reaching 500,000+ people
+**Building with** LLMs and RAG across Somezing, WebHR and AskBooks
 
-**Stack:** React Native, React, Next.js, TypeScript, Redux, Node.js, Python, Firebase, Supabase, Figma
+### What I've worked on
 
-Happy to talk about React Native, mobile and design work.
+- The WebHR mobile app, built in React Native for an HR platform used in 190+ countries
+- Facial-recognition clock-in and offline support for the [WebHR Kiosk](https://apps.apple.com/us/app/webhr-kiosk/id6458185862) app
+- The [web.hr](https://web.hr/) website, from design and frontend through to SEO
+- Free UI kits on Figma Community, used by 500,000+ people
+
+### Tech Stack:
+
+```json
+{
+  "mobile": ["React Native", "Redux", "Firebase"],
+  "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  "backend": ["Node.js", "Python", "Supabase", "PostgreSQL"],
+  "ai": ["LLMs", "RAG", "Prompt engineering"],
+  "design": ["Figma", "Design systems", "Prototyping"]
+}
+```
+
+---
 
 [ibii.dev](https://ibii.dev) · [ibii.code@gmail.com](mailto:ibii.code@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrahimmemonn/)
